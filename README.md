@@ -58,5 +58,6 @@ If($n = $true){
 
 <!-- GITHUB MARKDOWN -->
 
-* []Tarea 1
-* [x]Tarea 2
+* [ ] Tarea 1
+* [x] Tarea 2
+* [ ] Tarea 3
